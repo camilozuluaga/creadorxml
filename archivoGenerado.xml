@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data noupdate="1">
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_1">
+			<field name="﻿codtipoidentidad">asi</field>
+			<field name="codalterno ">AS</field>
+			<field name=" name ">Adulto sin Identificación</field>
+			<field name=" coddian">13</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_2">
+			<field name="﻿codtipoidentidad">ced</field>
+			<field name="codalterno ">CC</field>
+			<field name=" name ">Cédula de Ciudadanía (CC)</field>
+			<field name=" coddian">13</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_3">
+			<field name="﻿codtipoidentidad">tidex</field>
+			<field name="codalterno ">TIE</field>
+			<field name=" name ">Tarjeta de extranjería</field>
+			<field name=" coddian">21</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_4">
+			<field name="﻿codtipoidentidad">cex</field>
+			<field name="codalterno ">CE</field>
+			<field name=" name ">Cédula de Extranjería (CE)</field>
+			<field name=" coddian">22</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_5">
+			<field name="﻿codtipoidentidad">msi</field>
+			<field name="codalterno ">MS</field>
+			<field name=" name ">Menor sin Identificación</field>
+			<field name=" coddian">13</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_6">
+			<field name="﻿codtipoidentidad">nit</field>
+			<field name="codalterno ">NI</field>
+			<field name=" name ">Número de Identificación Tributaria</field>
+			<field name=" coddian">31</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_7">
+			<field name="﻿codtipoidentidad">nui</field>
+			<field name="codalterno ">NU</field>
+			<field name=" name ">Número Único de Identificación (temporal)</field>
+			<field name=" coddian">13</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_8">
+			<field name="﻿codtipoidentidad">pas</field>
+			<field name="codalterno ">PA</field>
+			<field name=" name ">Pasaporte</field>
+			<field name=" coddian">41</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_9">
+			<field name="﻿codtipoidentidad">rci</field>
+			<field name="codalterno ">RC</field>
+			<field name=" name ">Registro Civil (RC)</field>
+			<field name=" coddian">11</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_10">
+			<field name="﻿codtipoidentidad">tid</field>
+			<field name="codalterno ">TI</field>
+			<field name=" name ">Tarjeta de  identidad (TI)</field>
+			<field name=" coddian">12</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_11">
+			<field name="﻿codtipoidentidad">42</field>
+			<field name="codalterno ">42</field>
+			<field name=" name ">Documento de identificación extranjero</field>
+			<field name=" coddian">42</field>
+		</record>
+		<record model="delphos.generales_tipoidentificacion" id="tipo_id_12">
+			<field name="﻿codtipoidentidad">43</field>
+			<field name="codalterno ">43</field>
+			<field name=" name ">Sin identificación del exterior o para uso definido por la DIAN</field>
+			<field name=" coddian">43</field>
+		</record>
+	</data>
+</openerp>
